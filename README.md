@@ -1,7 +1,7 @@
 
 <p align="center"> <img align="centre" alt="GIF" height="150px" width = "1000px" src="images/banner.jpg" /> </p>
 
-<img align="right" alt="GIF" height="300px"  src="https://i.pinimg.com/originals/c3/93/30/c39330111be00611c81d04ffcd2fc65f.gif" style="padding: 0px 0px 0px 50px"/>
+<img align="right" alt="GIF" height="300px"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hkejZxaHM4ajFmbjlyOW8xMXhzaG96cWN5b3A1dmhzNGsxM2lxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" style="padding: 0px 0px 0px 50px"/>
 
 ### 👋 Hi There!
 I'm Deep, an undergraduate Computer Science student and Physics at the University of Calgary, and I'm absolutely thrilled you're on this page! <br> I'm passionate about programming and computer science research, and I'm eager to learn from everyone!
@@ -25,7 +25,7 @@ I'm Deep, an undergraduate Computer Science student and Physics at the Universit
 </p>
 
 
-<p align="center"> <img align="centre" alt="GIF" height="150px" width = "1000px" src="images/banner2.jpg" /> </p>
+<p align="center"> <img align="centre" alt="GIF" height="150px" width = "1000px" src="https://img.itch.zone/aW1nLzE0MDQ2MzAxLnBuZw==/original/0cRulP.png" /> </p>
 
 
 
