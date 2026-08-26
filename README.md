@@ -9,9 +9,11 @@ I'm Deep, an undergraduate Computer Science student and Physics at the Universit
 - 🏫 I’m currently learning Python and Html.
 - 💻 Check out my website [here](https://cspages.ucalgary.ca/~deep.batth1/)!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="www.linkedin.com/in/deepkanwar-singh-batth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="timothyg27" height="30" width="30" /></a>
-<a href="https://scholar.google.com/citations?user=2SqB2akAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="timothyg27" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@timoteo272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="timothyg27" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="www.linkedin.com/in/deepkanwar-singh-batth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Deepkanwar Singh Batth" height="30" width="30" /></a> 
+&nbsp;&nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Universit%C3%A9_de_Calgary_%28logo%29.svg/500px-Universit%C3%A9_de_Calgary_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200608144610" alt="timothyg27" height="30" width="30" />
+&nbsp;&nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/500px-Arsenal_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" alt="" height="30" width="25" />
 
 <p align="center">
 <!--
