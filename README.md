@@ -7,7 +7,7 @@
 I'm Deep, an undergraduate Computer Science student and Physics at the University of Calgary, and I'm absolutely thrilled you're on this page! <br> I'm passionate about programming and computer science research, and I'm eager to learn from everyone!
 
 - 🏫 I’m currently learning Python and Html.
-- 💻 Check out my website [here](https://cspages.ucalgary.ca/~deep.batth1/)!
+- 💻 Check out my website [here](https://cspages.ucalgary.ca/~deep.batth1/)! <br>
   <img align="right" alt="GIF" height="150px"  src="https://www.freepnglogos.com/uploads/naruto-png/naruto-png-hidan-sama-deviantart-16.png" style="padding: 0px 0px 0px 50px"/>
  
 
@@ -23,11 +23,6 @@ I'm Deep, an undergraduate Computer Science student and Physics at the Universit
 <!--
 &nbsp;&nbsp;&nbsp; <img src="https://myreadme.vercel.app/api/embed/timg27?panels=commitgraph" alt="reimaginedreadme" height = "175px" wi/>
   -->
-<p align="center">
-  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timg27&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-&nbsp;&nbsp;&nbsp;<img src="https://widgetbite.com/stats/{timg27}" alt="watching_count" />
-
-</p>
 
 
 <p align="center"> <img align="centre" alt="GIF" height="150px" width = "1000px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ec267ea-55c2-4331-b232-7147aa0c34b2/d62r3f4-fa0a0ad5-ec11-44c2-9c78-ad9403039f3d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xZWMyNjdlYS01NWMyLTQzMzEtYjIzMi03MTQ3YWEwYzM0YjIvZDYycjNmNC1mYTBhMGFkNS1lYzExLTQ0YzItOWM3OC1hZDk0MDMwMzlmM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QZnrLCl-eUt-rEVi2CqhKY3IPsfF_QHNu2R9F25GmlQ" /> </p>
