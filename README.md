@@ -9,7 +9,7 @@ I'm Deep, an undergraduate Computer Science student and Physics at the Universit
 - 🏫 I’m currently learning Python and Html.
 - 💻 Check out my website [here](https://cspages.ucalgary.ca/~deep.batth1/)!
   <img align="right" alt="GIF" height="150px"  src="https://www.freepnglogos.com/uploads/naruto-png/naruto-png-hidan-sama-deviantart-16.png" style="padding: 0px 0px 0px 50px"/>
-
+ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="www.linkedin.com/in/deepkanwar-singh-batth" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Deepkanwar Singh Batth" height="30" width="30" /></a> 
 &nbsp;&nbsp;
@@ -17,11 +17,14 @@ I'm Deep, an undergraduate Computer Science student and Physics at the Universit
 &nbsp;&nbsp;
 <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/500px-Arsenal_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" alt="" height="30" width="25" />
 
-<p align="center">
+
+   ![Top Languages](https://ghstats.dev/api/langs?username=DeepBatth&theme=radical&layout=donut_vertical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=DeepBatth&theme=radical&hide_title=true&hide=issues%2Cavg%2Cactive_day)
 <!--
 &nbsp;&nbsp;&nbsp; <img src="https://myreadme.vercel.app/api/embed/timg27?panels=commitgraph" alt="reimaginedreadme" height = "175px" wi/>
   -->
-&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timg27&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p align="center">
+  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timg27&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 &nbsp;&nbsp;&nbsp;<img src="https://widgetbite.com/stats/{timg27}" alt="watching_count" />
 
 </p>
